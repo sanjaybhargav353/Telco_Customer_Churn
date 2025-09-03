@@ -1,7 +1,7 @@
 # Telco Customer Churn Analysis and Prediction
 # Predicting Customer Churn
 
-### The Business Problem: Why Do Good Customers Leave?
+### The Business Problem
 
 Every business wants to keep its customers happy. But sometimes, customers leave (or "churn"), and acquiring a new customer is far more expensive than retaining an existing one. This project tackles this core business problem by diving into a dataset from a fictional telecom company.
 
